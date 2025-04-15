@@ -83,6 +83,7 @@ body {
     top: 30%;
     pointer-events: none;
     color: var(--color-white);
+    transition: .5s;
 }
 
 .Remember_me_text,
